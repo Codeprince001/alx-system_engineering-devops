@@ -1,4 +1,4 @@
 
 #!/bin/bash
-ls -la[[:digit:]]*
+ls -lna
 
